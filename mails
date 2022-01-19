@@ -1,0 +1,6 @@
+[ChkBkpFail] Category: Backup/Restore,Important
+Title: Backup check fail
+Subject: Check backup on %HOSTNAME% has failed
+Dear User,
+Check backup on %HOSTNAME% has fail.
+%OUT_PUT%
