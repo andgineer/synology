@@ -1,0 +1,2 @@
+# synology
+Synology scripts
