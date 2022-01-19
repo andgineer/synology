@@ -1,4 +1,4 @@
-# synology
+# Synology
 Synology scripts
 
 ### Notifications
