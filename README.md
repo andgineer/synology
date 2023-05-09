@@ -1,5 +1,5 @@
 # Synology
-Synology scripts
+Synology scripts to rsync internal and external storages
 
 ### Notifications
 
