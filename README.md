@@ -1,14 +1,15 @@
-# Synology
-Synology scripts to rsync internal and external storages
+# Synology Scripts
+
+Rsync tools for internal and external Synology storage.
 
 ### Notifications
-Below is adapted from [www.beatificabytes.be article](docs/send-custom-notifications-from-scripts-running-on-a-synology-new.md)
+Adapted from [www.beatificabytes.be article](docs/send-custom-notifications-from-scripts-running-on-a-synology-new.md)
 
 #### Define template
-Add content of file `mails` to `/usr/syno/synoman/webman/texts/enu/mails` to
+Add `/usr/syno/synoman/webman/texts/enu/mails` content to
 `/usr/syno/synoman/webman/texts/enu/notification_category`
 
-- The `Category` is used to group the Notifications in the DSM > Control Panel > Notification > Advanced Tab
+- The `Category` is used to group the Notifications in the `DSM` > `Control Panel` > `Notification` > `Advanced` Tab
 - Each Category separated by comma with Priority
 
 #### Define notification
